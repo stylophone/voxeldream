@@ -4,7 +4,7 @@
 
 > Like building with blocks—simple to start, practical to ship.
 
-VoxelDream is a controllable voxel modeling tool for Minecraft creators and indie game developers. Start from an empty workspace, an image, or an existing voxel asset; reshape and recolor it with direct editing tools; then save the editable source or export the result for another project.
+VoxelDream is a controllable voxel-based 3D creation tool for building, editing, and transforming game-ready assets and scenes. Start from scratch, images, meshes, or existing voxel content, refine everything with direct editing tools, and export your work to Minecraft, game engines, or standard 3D workflows.
 
 > **Very Early Beta**
 >
