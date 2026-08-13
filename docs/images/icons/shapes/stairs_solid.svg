@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Stairs Solid</title>
+  <path d="M7 22H12V17H17V12H22V7H25V25H7V22Z" fill="#38BDF8"/>
+  <path d="M7 22L12 25H25L20 22H7Z" fill="#0EA5E9"/>
+  <path d="M12 17L17 20H25L20 17H12Z" fill="#7DD3FC"/>
+  <path d="M17 12L22 15H25L20 12H17Z" fill="#7DD3FC"/>
+  <path d="M22 7L25 9V7H22Z" fill="#E0F2FE"/>
+</svg>

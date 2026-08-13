@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Pyramid Solid</title>
+  <path d="M16 6L25 22H16V6Z" fill="#38BDF8"/>
+  <path d="M16 6L16 22H7L16 6Z" fill="#0EA5E9"/>
+  <path d="M14.2 11L16 9L17.8 11L16 13L14.2 11Z" fill="#F8FAFC" opacity="0.85"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Triangular Prism Solid</title>
+  <path d="M8 21L14 11L20 21H8Z" fill="#0EA5E9"/>
+  <path d="M14 11L20 8L26 18L20 21L14 11Z" fill="#38BDF8"/>
+  <path d="M8 21H20L26 18H14L8 21Z" fill="#E0F2FE"/>
+</svg>

@@ -1,6 +1,6 @@
 # VoxelDream
 
-[简体中文](README.zh-CN.md)
+[简体中文](README.zh-CN.md) · [User Guide](docs/User-Guide.md)
 
 > Like building with blocks—simple to start, practical to ship.
 

@@ -1,0 +1,5 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Hand Tool</title>
+  <path d="M10 15V7.5C10 6.1 11.1 5 12.5 5C13.9 5 15 6.1 15 7.5V13H16V6.5C16 5.1 17.1 4 18.5 4C19.9 4 21 5.1 21 6.5V13H22V9.5C22 8.1 23.1 7 24.5 7C25.9 7 27 8.1 27 9.5V19C27 25 23.2 29 17.5 29H15.5C11.4 29 8.5 26.9 6.7 23.2L4.6 18.8C4 17.6 4.5 16.1 5.7 15.5C6.9 14.9 8.3 15.4 8.9 16.6L10 18.8V15Z" fill="#A78BFA" stroke="#F5F3FF" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="20" y="24" width="4" height="3" fill="#DDD6FE" opacity="0.75"/>
+</svg>

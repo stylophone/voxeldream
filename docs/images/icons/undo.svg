@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Undo</title>
+  <path d="M12 7L4 15L12 23V18H18C21.3 18 24 20.7 24 24V26H28V24C28 18.5 23.5 14 18 14H12V7Z" fill="#E0F2FE"/>
+  <path d="M10 12L7 15L10 18V16H18C22.4 16 26 19.6 26 24H28C28 18.5 23.5 14 18 14H10V12Z" fill="#38BDF8"/>
+  <rect x="23" y="23" width="4" height="4" rx="1" fill="#BAE6FD" opacity="0.8"/>
+</svg>

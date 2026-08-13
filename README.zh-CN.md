@@ -1,6 +1,6 @@
 # VoxelDream（体素梦工厂）
 
-[English](README.md)
+[English](README.md) · [使用指南](docs/User-Guide.zh-CN.md)
 
 > 像搭积木一样简单，但做出的资产真的能进入后续项目。
 

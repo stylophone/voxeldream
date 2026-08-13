@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Eyedropper Tool</title>
+
+  <!-- small rubber bulb -->
+  <path d="M23.1 3.8L28.2 8.9C29.1 9.8 29.1 11.2 28.2 12.1L26.3 14L19.1 6.8L21 4.9C21.6 4.3 22.3 3.8 23.1 3.8Z" fill="#F5F3FF"/>
+  <path d="M21.1 5.7L27.2 11.8L26 13L19.9 6.9L21.1 5.7Z" fill="#DDD6FE" opacity="0.95"/>
+
+  <!-- narrow collar -->
+  <path d="M18.4 7.5L25.6 14.7L23.7 16.6L16.5 9.4L18.4 7.5Z" fill="#8B5CF6"/>
+
+  <!-- straight glass tube -->
+  <path d="M17.7 12.2L20.9 15.4L9.4 26.9Q4.6 28.5 6.2 23.7L17.7 12.2Z" fill="#E0F2FE"/>
+  <path d="M18.5 13L20.1 14.6L8.6 26.1Q6.2 26.9 7 24.5L18.5 13Z" fill="#BAE6FD"/>
+
+  <!-- sampled color in the lower tube -->
+  <path d="M9.9 21.6L11.5 23.2L8.6 26.1Q6.2 26.9 7 24.5L9.9 21.6Z" fill="#38BDF8"/>
+
+  <!-- short centered nozzle -->
+  <!-- <path d="M5.9 26.6L6.6 27.3L4.9 29L4.2 28.3L5.9 26.6Z" fill="#0EA5E9"/> -->
+
+  <!-- subtle highlight -->
+  <path d="M18.2 13.4L19.7 14.9" stroke="#F8FAFC" stroke-width="0.65" stroke-linecap="round" opacity="0.85"/>
+
+
+</svg>

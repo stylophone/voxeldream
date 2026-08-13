@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cube Solid</title>
+  <path d="M16 5L25 10L16 15L7 10L16 5Z" fill="#E0F2FE"/>
+  <path d="M7 10V21L16 26V15L7 10Z" fill="#0EA5E9"/>
+  <path d="M25 10V21L16 26V15L25 10Z" fill="#38BDF8"/>
+  <path d="M12 9L16 11L20 9L16 7L12 9Z" fill="#F8FAFC" opacity="0.8"/>
+</svg>

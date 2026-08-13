@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Create Tool</title>
+  <path d="M7 10L16 5L25 10L16 15L7 10Z" fill="#BAE6FD"/>
+  <path d="M7 10L16 15V26L7 21V10Z" fill="#38BDF8"/>
+  <path d="M25 10L16 15V26L25 21V10Z" fill="#0EA5E9"/>
+  <path d="M11 12L16 9.2L21 12L16 14.8L11 12Z" fill="#E0F2FE" opacity="0.9"/>
+  <path d="M22 4H25V7H28V10H25V13H22V10H19V7H22V4Z" fill="#D1FAE5"/>
+  <rect x="23" y="5" width="2" height="7" fill="#34D399"/>
+  <rect x="20" y="8" width="7" height="2" fill="#34D399"/>
+</svg>

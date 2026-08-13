@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Move Tool</title>
+  <rect x="13" y="13" width="6" height="6" rx="1" fill="#38BDF8"/>
+  <path d="M16 3L21 9H18V14H14V9H11L16 3Z" fill="#E0F2FE"/>
+  <path d="M16 29L11 23H14V18H18V23H21L16 29Z" fill="#E0F2FE"/>
+  <path d="M3 16L9 11V14H14V18H9V21L3 16Z" fill="#E0F2FE"/>
+  <path d="M29 16L23 21V18H18V14H23V11L29 16Z" fill="#E0F2FE"/>
+  <path d="M13 13H19V15H15V19H13V13Z" fill="#BAE6FD" opacity="0.8"/>
+</svg>

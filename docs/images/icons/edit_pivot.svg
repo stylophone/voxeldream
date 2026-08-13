@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Edit Pivot</title>
+
+  <path d="M12 7L20 11L12 15L4 11L12 7Z" fill="#E0F2FE"/>
+  <path d="M4 11V20L12 24V15L4 11Z" fill="#0EA5E9"/>
+  <path d="M20 11V20L12 24V15L20 11Z" fill="#38BDF8"/>
+
+  <path d="M12 15V28" stroke="#FDE68A" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="2 2"/>
+  <path d="M12 15H28" stroke="#FDE68A" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="2 2"/>
+
+  <circle cx="12" cy="15" r="2.8" fill="#F59E0B"/>
+  <circle cx="12" cy="15" r="1.2" fill="#FEF3C7"/>
+
+  <path d="M28 15L24.8 13.2V14.4H20.8V15.6H24.8V16.8L28 15Z" fill="#FDE68A"/>
+  <path d="M12 28L10.2 24.8H11.4V20.8H12.6V24.8H13.8L12 28Z" fill="#FDE68A"/>
+
+  <path d="M12 10.8V12.4M12 17.6V19.2M7.8 15H9.4M14.6 15H16.2" stroke="#FFF7ED" stroke-width="1.2" stroke-linecap="round" opacity="0.85"/>
+</svg>

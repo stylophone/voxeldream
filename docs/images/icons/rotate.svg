@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Rotate Tool</title>
+  <path d="M23 8H18V4H28V14H24V11.4C22.1 8.8 19.2 7.2 16 7.2C10.7 7.2 6.4 11.5 6.4 16.8C6.4 22.1 10.7 26.4 16 26.4C19.1 26.4 21.9 24.9 23.7 22.6L26.8 25C24.4 28.2 20.5 30.2 16 30.2C8.6 30.2 2.6 24.2 2.6 16.8C2.6 9.4 8.6 3.4 16 3.4C18.7 3.4 21.1 4.2 23 5.5V8Z" fill="#FDE68A"/>
+  <rect x="12" y="12" width="8" height="8" rx="1" fill="#F59E0B"/>
+  <path d="M12 12H20V14H14V20H12V12Z" fill="#FEF3C7" opacity="0.7"/>
+</svg>

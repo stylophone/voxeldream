@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Voxel Edit</title>
+  <path d="M7 10L16 5L25 10L16 15L7 10Z" fill="#BAE6FD"/>
+  <path d="M7 10L16 15V26L7 21V10Z" fill="#38BDF8"/>
+  <path d="M25 10L16 15V26L25 21V10Z" fill="#0EA5E9"/>
+  <path d="M11 12L16 9.2L21 12L16 14.8L11 12Z" fill="#E0F2FE" opacity="0.9"/>
+  <path d="M22.4 4.6L27.4 9.6L18.6 18.4L13.6 20.4L15.6 15.4L22.4 4.6Z" fill="#FDE68A"/>
+  <path d="M24.6 6.8L25.2 7.4L17.4 15.2L16.7 16.9L18.4 16.2L26.2 8.4L26.8 9L18.6 18.4L13.6 20.4L15.6 15.4L24.6 6.8Z" fill="#F59E0B"/>
+  <rect x="23.5" y="3.5" width="4" height="4" rx="1" transform="rotate(45 23.5 3.5)" fill="#FEF3C7"/>
+</svg>

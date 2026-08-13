@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Scale Tool</title>
+  <rect x="10" y="10" width="12" height="12" rx="1" fill="#34D399"/>
+  <path d="M4 4H14V8H10.8L15 12.2L12.2 15L8 10.8V14H4V4Z" fill="#D1FAE5"/>
+  <path d="M28 4V14H24V10.8L19.8 15L17 12.2L21.2 8H18V4H28Z" fill="#D1FAE5"/>
+  <path d="M4 28V18H8V21.2L12.2 17L15 19.8L10.8 24H14V28H4Z" fill="#D1FAE5"/>
+  <path d="M28 28H18V24H21.2L17 19.8L19.8 17L24 21.2V18H28V28Z" fill="#D1FAE5"/>
+  <path d="M10 10H22V13H13V22H10V10Z" fill="#A7F3D0" opacity="0.8"/>
+</svg>
