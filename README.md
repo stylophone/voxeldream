@@ -35,6 +35,8 @@ VoxelDream is a controllable voxel-based 3D creation tool for building, editing,
 
 Download the latest build from [GitHub Releases](https://github.com/stylophone/voxeldream/releases/latest).
 
+VoxelDream is also available on [itch.io](https://stylophone.itch.io/voxeldream).
+
 ## What you can do
 
 ### Shape and refine

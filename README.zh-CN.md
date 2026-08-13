@@ -35,6 +35,8 @@ VoxelDream 是一款可控的体素化 3D 创作工具，用于制作、编辑�
 
 请从 [GitHub Releases](https://github.com/stylophone/voxeldream/releases/latest) 下载最新版本。
 
+VoxelDream 也可以通过 [itch.io](https://stylophone.itch.io/voxeldream) 获取。
+
 ## 可以用它做什么
 
 ### 塑形与修整
