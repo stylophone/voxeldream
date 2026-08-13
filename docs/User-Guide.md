@@ -177,7 +177,7 @@ Generate a staircase from the drag direction and bounds.
 
 ### Magic Wand
 
-Process voxels according to color similarity. Connected mode follows only matching adjacent voxels; All Matching searches the complete workspace. Tolerance controls how similar colors must be.
+Select or erase voxels according to color similarity. Connected mode follows only matching adjacent voxels; All Matching searches the complete workspace. Tolerance controls how similar colors must be.
 
 ### Paint Bucket
 
