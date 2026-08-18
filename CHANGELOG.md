@@ -3,8 +3,22 @@
 This file records public VoxelDream releases. Releases are listed in reverse
 chronological order.
 
+## v0.1.1-beta.1 — Unreleased
+
+- Added Voxel Shapes in World Mode, beginning with resizable Box and Sphere
+  primitives. Shapes can be adjusted before entering Voxel Mode for detailed
+  editing, and the Shapes menu is designed to support more primitives in future
+  updates.
+- Improved World Mode workspace bounds visualization so it remains stable when
+  objects are selected, respects normal scene depth, and avoids flickering
+  where workspace boundaries overlap voxel meshes.
+- Fixed the Stairs tool so the requested steps divide the full selected height,
+  instead of always making the lowest step only one voxel high.
+
 ## v0.1.0-beta.2 — Unreleased
 
+- Improved Minecraft Bedrock Add-On export so solid-color custom blocks and
+  stair structures stay aligned with the corresponding China Edition export.
 - Added English and Simplified Chinese footer tooltips for the main editor
   controls. Hover guidance appears temporarily in the footer without being
   added to the Console log.
