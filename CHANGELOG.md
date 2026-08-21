@@ -5,6 +5,12 @@ chronological order.
 
 ## v0.1.1-beta.1 — Unreleased
 
+- Added Region Selection in Voxel Mode for selecting spatial areas independently
+  of their current contents. Selected regions can be filled with the active voxel,
+  recolored or assigned a different material, or cleared while remaining selected.
+- Added a Ruler outline mode in Voxel Mode. It keeps individual voxel edges
+  visible while emphasizing major lines at the configurable voxel grid cell
+  interval, helping users measure proportions and align larger models.
 - Added Voxel Shapes in World Mode, beginning with resizable Box and Sphere
   primitives. Shapes can be adjusted before entering Voxel Mode for detailed
   editing, and the Shapes menu is designed to support more primitives in future
