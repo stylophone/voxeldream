@@ -3,8 +3,12 @@
 This file records public VoxelDream releases. Releases are listed in reverse
 chronological order.
 
-## v0.1.1-beta.1 — Unreleased
+## v0.1.1-beta.1 — 2026-08-22
 
+- Added optional Smooth Refine when detaching a Voxel Mode selection at 2× or
+  higher detail. It smooths the subdivided voxel silhouette while approximately
+  preserving volume; exact block subdivision remains the default for hard-edged
+  models and thin details.
 - Added Region Selection in Voxel Mode for selecting spatial areas independently
   of their current contents. Selected regions can be filled with the active voxel,
   recolored or assigned a different material, or cleared while remaining selected.
@@ -20,6 +24,8 @@ chronological order.
   where workspace boundaries overlap voxel meshes.
 - Fixed the Stairs tool so the requested steps divide the full selected height,
   instead of always making the lowest step only one voxel high.
+
+Release: <https://github.com/stylophone/voxeldream/releases/tag/v0.1.1-beta.1>
 
 ## v0.1.0-beta.2 — Unreleased
 
