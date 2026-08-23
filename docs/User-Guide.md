@@ -139,6 +139,8 @@ Use the number keys in Voxel mode:
 
 The left toolbar shows the tools available for the current operation mode. Some buttons can be held or expanded to choose another shape in the same group.
 
+With Box, Sphere, Cylinder, Pyramid, Prism, or Stairs, begin dragging first and then hold `Shift` to keep the two directions on the starting surface at equal spans. This makes it easy to draw squares, circles, and proportional cross-sections; release `Shift` to return to free proportions. In Select mode, holding `Shift` before pressing the mouse button still adds to the selection. If you begin an additive selection with `Shift`, release it and press it again during the drag to enable the proportional constraint.
+
 ### Pen
 
 The basic point-by-point tool. Use it for details, repairs, painting, and local erasing. Click and drag for a continuous stroke.

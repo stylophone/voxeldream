@@ -3,6 +3,33 @@
 This file records public VoxelDream releases. Releases are listed in reverse
 chronological order.
 
+## v0.1.2-beta.1 — 2026-08-23
+
+- Added Photoshop-style `Shift` ordering to Voxel Mode shape tools. Holding
+  `Shift` after a Box, Sphere, Cylinder, Pyramid, Prism, or Stairs drag begins
+  constrains the starting-plane axes to equal spans, while holding it before
+  the drag continues to add to the current selection.
+- Improved the color palette so it remembers the last paint color used and
+  restores it across window reopenings and application restarts. New users, or
+  users with no saved color preference, still start with the default pink.
+- Fixed the center Scale handle in Voxel Mode so it resizes selections
+  proportionally on all three axes instead of applying unrelated per-axis
+  changes based on the camera angle.
+- Fixed World Mode workspace bounds visualization so voxel workspaces moved in
+  Voxel Mode are displayed at their saved offset instead of at the original
+  zero-origin position.
+- Fixed Rect tool edits after moving the Voxel Mode workspace a long distance.
+  Chunk-cache hash collisions could previously write voxels outside the
+  workspace bounds and cause the saved voxel source data to be rejected when
+  entering Voxel Mode again.
+- Fixed Detach after moving the Voxel Mode workspace. Detached voxel content
+  and its new workspace bounds could previously appear far apart because the
+  source workspace origin was not normalized into the detached asset.
+- Improved performance when creating and rebuilding large voxel assets by
+  optimizing VVOX serialization and World Mode greedy meshing.
+
+Release: <https://github.com/stylophone/voxeldream/releases/tag/v0.1.2-beta.1>
+
 ## v0.1.1-beta.1 — 2026-08-22
 
 - Added optional Smooth Refine when detaching a Voxel Mode selection at 2× or
