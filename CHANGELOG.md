@@ -3,6 +3,40 @@
 This file records public VoxelDream releases. Releases are listed in reverse
 chronological order.
 
+## v0.1.3-beta.1 — 2026-08-27
+
+- Improved the World Mode terrain, maze and dungeon, and building generators so
+  generated assets can restore their settings and be updated or rebuilt in place.
+- Added `Add Face` and `Fill Depth` options to the Face tool in Create mode.
+  `Add Face` adds one voxel layer across the connected clicked surface, while
+  `Fill Depth` extends that same face footprint along its normal until each
+  column reaches an existing voxel or the finite Voxel Space boundary.
+- Added continuous Face tool strokes in Select, Paint, and Erase modes. Holding
+  and dragging across multiple faces previews the combined operation and commits
+  it as a single undoable edit when the pointer is released. Create mode remains
+  click-based to prevent accidental repeated extrusion.
+- Added binary STL export through **File → Export → STL**. Multiple selected
+  scene objects can be combined into one STL, with an adjustable physical voxel
+  edge length in millimetres and a live preview of export dimensions and triangle
+  count.
+- Significantly improved the first save of large VOXPROJ projects by removing
+  redundant hashing and processing voxel assets in parallel. A 1.15 GiB test
+  project now saves in about 4.5 seconds instead of 22 seconds, without changing
+  the project format or compression results.
+- Significantly improved opening large VOXPROJ projects through parallel package
+  validation, reuse of verified asset fingerprints and duplicate meshes, and a
+  compact VVOX-to-greedy-mesh path that avoids redundant full-voxel conversions
+  and material scans. The same test project now opens in about 4.9 seconds instead
+  of 19.7 seconds while retaining complete validation before the current scene is
+  cleared.
+- Introduced VVOX v5 with compact workspace-local coordinates and adaptive
+  X-span/palette records, substantially reducing large regular voxel assets while
+  retaining linear-time read and write behavior. Existing VVOX v3/v4 files remain
+  readable; exporting them or resaving a VOXPROJ project upgrades the stored voxel
+  assets to v5.
+
+Release: <https://github.com/stylophone/voxeldream/releases/tag/v0.1.3-beta.1>
+
 ## v0.1.2-beta.1 — 2026-08-23
 
 - Added Photoshop-style `Shift` ordering to Voxel Mode shape tools. Holding

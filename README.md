@@ -42,6 +42,7 @@ VoxelDream is also available on [itch.io](https://stylophone.itch.io/voxeldream)
 ### Shape and refine
 
 - Draw freehand or build with lines, faces, boxes, spheres, cylinders, pyramids, prisms, and stairs.
+- In Create mode, use Face `Add Face` for one connected surface layer or `Fill Depth` to extend that footprint along its normal to existing voxels or the Voxel Space boundary.
 - Select connected surfaces or regions, then recolor, duplicate, move, rotate, scale, or detach them.
 - Work with solid-color palettes or Minecraft block materials.
 
@@ -55,6 +56,8 @@ VoxelDream is also available on [itch.io](https://stylophone.itch.io/voxeldream)
 ### Use the result elsewhere
 
 - Export FBX meshes for standard 3D and game-engine workflows.
+- Export selected scene objects as a combined binary STL with physical dimensions
+  suitable for 3D-printing workflows.
 - Export Minecraft Add-On packages for supported Bedrock targets.
 - Produce offline PNG renders and start quickly from the built-in asset library.
 

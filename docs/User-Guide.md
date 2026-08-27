@@ -161,6 +161,20 @@ Drag a cuboid region. Create mode supports solid or shell forms and rounded or c
 
 Operate on a connected surface starting from the clicked face. It is useful for selecting, painting, or cleaning a continuous surface.
 
+In Create mode, choose one of the Face options in the top bar:
+
+- **Add Face** adds one voxel layer across the connected clicked surface.
+- **Fill Depth** starts with the same connected face footprint, then fills each
+  cell along the face normal until that column reaches an existing voxel or the
+  finite Voxel Space boundary. Open space is filled to the boundary; it is not
+  treated as an infinite exterior.
+
+These options affect only Create mode, which remains click-based. In Select,
+Paint, and Erase modes, click a face for a single connected-surface operation,
+or hold the mouse button and drag across multiple faces to combine them into one
+operation. The combined operation is committed as one undoable edit when the
+mouse button is released.
+
 ### Sphere
 
 Create a sphere or ellipsoid inside the dragged bounds, either solid or as a shell.
@@ -196,7 +210,7 @@ Click an existing voxel to sample its color or material, then continue with Pen 
 | ![Pen](images/icons/modeling/pen.svg) | Pen | Point or continuous stroke editing |
 | ![Line](images/icons/modeling/line.svg) | Line | Build a continuous segment between two points |
 | ![Rect](images/icons/modeling/rect.svg) | Rect | Drag a rectangular operation region |
-| ![Face](images/icons/modeling/face%20%282%29.svg) | Face | Process a connected model surface |
+| ![Face](images/icons/modeling/face%20%282%29.svg) | Face | Add one surface layer or fill its depth in Create mode; process a connected surface in other modes |
 | ![Magic Wand](images/icons/magic_wand.svg) | Magic Wand | Match voxels by color and connectivity |
 | ![Paint Bucket](images/icons/paint_bucket%20%281%29.svg) | Paint Bucket | Fill a region quickly |
 | ![Eyedropper](images/icons/eyedropper%202.svg) | Eyedropper | Sample an existing voxel's appearance |

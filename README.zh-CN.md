@@ -42,6 +42,7 @@ VoxelDream 也可以通过 [itch.io](https://stylophone.itch.io/voxeldream) 获�
 ### 塑形与修整
 
 - 使用画笔自由创作，或通过直线、面、方框、球体、圆柱、棱锥、棱柱和楼梯快速搭建形体。
+- 创建模式下，面工具可用“添加面”在连续表面上增加一层，或用“填充纵深”沿法线填充到已有体素或 Voxel Space 边界。
 - 选择连续表面或区域，再进行调色、复制、移动、旋转、缩放与分离。
 - 使用纯色 Palette 或 Minecraft 方块材质创作。
 
@@ -55,6 +56,7 @@ VoxelDream 也可以通过 [itch.io](https://stylophone.itch.io/voxeldream) 获�
 ### 把成果带到其它项目
 
 - 导出 FBX Mesh，进入常规 3D 软件与游戏引擎工作流。
+- 将选中的场景对象合并导出为带有实际尺寸的二进制 STL，用于 3D 打印工作流。
 - 为当前支持的 Bedrock 目标导出 Minecraft Add-On 包。
 - 使用内置资源库快速开始，并将作品离线渲染为 PNG 图片。
 
