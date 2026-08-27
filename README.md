@@ -4,11 +4,15 @@
 
 > Like building with blocks—simple to start, practical to ship.
 
-VoxelDream is a controllable voxel-based 3D creation tool for building, editing, and transforming game-ready assets and scenes. Start from scratch, images, meshes, or existing voxel content, refine everything with direct editing tools, and export your work to Minecraft, game engines, or standard 3D workflows.
+VoxelDream is a discrete-space 3D creation system for building, editing, and transforming game-ready assets and scenes. Start from scratch, images, meshes, or existing voxel content, refine everything with direct editing tools, and export your work to Minecraft, game engines, or standard 3D workflows.
 
 > **Very Early Beta**
 >
 > Expect bugs, unfinished features, and possible changes to project files. Keep backups of important work.
+
+## Why discrete space?
+
+VoxelDream keeps models as editable voxel source data inside finite, integer-aligned 3D workspaces. This lets it use purpose-built algorithms for occupancy, connected regions, tool footprints, selection transforms, parameterized generation, compact storage, and mesh reconstruction. Voxels are therefore more than a visual style: they provide a controllable representation that keeps creation, editing, saving, and export tied to the same underlying model.
 
 ## Screenshots
 

@@ -6,7 +6,9 @@
 
 ## 1. What is VoxelDream?
 
-VoxelDream is a voxel-based 3D modeling tool. You can place, remove, and modify blocks to create characters, props, buildings, decorations, and game assets.
+VoxelDream is a discrete-space 3D modeling system built around editable voxel source data. You can place, remove, and modify blocks to create characters, props, buildings, decorations, and game assets.
+
+Its finite, integer-aligned workspaces support purpose-built algorithms for connected regions, modeling tools, selection transforms, generators, compact storage, and mesh reconstruction. You do not need to understand those implementation details to use the editor, but they make voxel editing more than a visual style.
 
 It is designed to help you:
 
